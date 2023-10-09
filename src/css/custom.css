@@ -1,0 +1,32 @@
+.hero-section {
+  background: url("../../assets/surgery-hero-bg-r1.jpg");
+  background-repeat: no-repeat;
+  min-width: 100%;
+  background-position: cover;
+}
+
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+}
+
+.glory-font {
+  font-family: "Glory", sans-serif;
+}
+
+.arrow-down-black {
+  width: 0;
+  height: 0;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+
+  border-top: 30px solid black;
+}
+
+.arrow-down-green {
+  width: 0;
+  height: 0;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+
+  border-top: 30px solid #0e4c35;
+}
